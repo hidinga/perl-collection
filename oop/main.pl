@@ -3,7 +3,7 @@
 use strict;
 use Data::Dumper;
 
-# 调用子类
+# 璋冪敤瀛愮被
 
 use myClass;
 our @ISA = qw(myClass);
